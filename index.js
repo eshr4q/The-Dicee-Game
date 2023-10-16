@@ -16,6 +16,13 @@ var image2 = document.querySelectorAll("img")[1];
 image2.setAttribute("src", imageNameGenerator());
 
 
+// var container = documet.querySelector("h1");
+// container.innerHTML("new", "draw");
+
+// document.querySelector("h1").innerHTML = "🚩 Play 1 Wins!";
+
+
+
 
 
 
